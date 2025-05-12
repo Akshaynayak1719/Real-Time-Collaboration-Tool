@@ -80,5 +80,11 @@ collab-tool/
 - 📝 Add Markdown support  
 - 📱 Develop mobile applications  
 - 📎 Integrate file attachments  
-- 📄 Implement document templates  
+- 📄 Implement document templates
+
+  ## Output
+
+![Image](https://github.com/user-attachments/assets/cc906140-0dd2-4103-83a0-c6c3a731964d)
+![Image](https://github.com/user-attachments/assets/02e7067a-c38f-4dbb-85ff-9811273ccd2f)
+![Image](https://github.com/user-attachments/assets/5a82c44a-6e67-47e7-95d0-680f95a1eea9)
 
